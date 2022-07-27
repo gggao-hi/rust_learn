@@ -11,4 +11,6 @@ fn main() {
     variables::test_variables::test_const();
     println!("===========");
     variables::test_variables::test_integer();
+    println!("===========");
+    variables::test_variables::test_float();
 }
